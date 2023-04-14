@@ -1,3 +1,10 @@
 .navbar-custom{
     height: 80px;
 }
+
+.nav-item > a {
+    color: brown;
+}
+.nav-item > a:hover {
+    text-decoration: underline;
+}
